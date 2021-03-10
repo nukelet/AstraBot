@@ -1,0 +1,1 @@
+A bot used in the official [r/Language_Exchange](https://www.reddit.com/r/language_exchange/) Discord [server](https://discord.gg/ehpDzZkDC5).
