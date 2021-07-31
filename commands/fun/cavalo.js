@@ -13,6 +13,7 @@ module.exports = class Cavalo extends Command {
     }
 
     run(message) {
+        console.log(message.author);
         return message.say(':horse:');
     }
 };
